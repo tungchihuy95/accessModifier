@@ -1,4 +1,10 @@
+
+
 package publicpack;
 
-public class A {
+public class A{
+
+    public void msg(){System.out.println("Hello");}
+
 }
+
