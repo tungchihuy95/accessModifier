@@ -1,4 +1,7 @@
 package protectedpack;
 
-public class A {
+public class A{
+
+    protected void msg(){System.out.println("Hello");}
+
 }
